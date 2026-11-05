@@ -1,4 +1,3 @@
-sw.js
 
 const CACHE = 'invest-unified-shell-v2';
 
